@@ -1,0 +1,27 @@
+.boxwraper1 {
+    width: 600px;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.boxwraper2 {
+    width: 600px;
+    display: flex;
+    justify-content: center;
+
+}
+.boxwraper3 {
+    width: 600px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.box {
+    width:100px;
+    height:100px;
+    background-color: orange;
+    justify-content: flex-start;
+    margin: 3px;
+    border-radius: 3px;
+
+}

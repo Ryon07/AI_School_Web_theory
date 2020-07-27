@@ -1,0 +1,12 @@
+.box  {
+    width: 100px;
+    height: 100px;
+    background-color: lime;
+    margin: 3px;}
+
+.box_container1 {
+  
+    display: flex;
+  
+
+}
